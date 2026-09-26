@@ -1,0 +1,7 @@
+{
+  "name": "LabReport AI",
+  "description": "Pathology Lab Report Generator with Age & Sex Reference Ranges, Unit Normalization, Critical Alert Detection, and Pathology-Tailored Patient Diet Plans",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
